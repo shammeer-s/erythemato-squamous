@@ -1,0 +1,18 @@
+Types of Classification Algorithms
+Classification Algorithms could be broadly classified as the following:
+
+Linear Classifiers
+    Logistic regression
+    Naive Bayes classifier
+    Fisher’s linear discriminant
+Support vector machines
+    Least squares support vector machines
+Quadratic classifiers
+Kernel estimation
+    k-nearest neighbor 
+Decision trees
+    Random forests
+Neural networks
+Learning vector quantization
+
+Examples of a few popular Classification Algorithms are given below.
