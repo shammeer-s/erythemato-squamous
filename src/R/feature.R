@@ -17,4 +17,4 @@ for(i in cols) {
 
 print(head(dataframe))
 
-write.csv(dataframe, "input/output.csv")
+write.csv(dataframe, "input/feature info.csv")
